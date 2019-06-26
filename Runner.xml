@@ -1,0 +1,7 @@
+<Suite name="BDD" verbose="1" thread-count="1" configfailurepolicy="Continue">
+    <test name="My Test" annotation="JDK" Preserve-order="true">
+        <classes>
+            <calss name="com.cucumber.MyRunInTestNg"/>
+        </classes>
+    </test>
+</Suite>
